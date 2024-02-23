@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: #1f1f1f;
+}
+.container {
+    max-width: 720px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 20%;
+    font-size: 2rem;
+    color: rgb(0, 255, 0);
+    text-shadow: black 20px 5px 20px;
+}
